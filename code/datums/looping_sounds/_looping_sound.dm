@@ -1,5 +1,5 @@
 /*
-	output_atoms	(list of atoms)			The destination(s) for the sounds
+	output_atoms	(list of atoms)			The destination(s) for the sound
 
 	mid_sounds		(list or soundfile)		Since this can be either a list or a single soundfile you can have random sounds. May contain further lists but must contain a soundfile at the end.
 	mid_length		(num)					The length to wait between playing mid_sounds
